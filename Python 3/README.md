@@ -27,3 +27,7 @@ More generally given parameters:
 p0, percent, aug (inhabitants coming or leaving each year), p (population to surpass)
 the function nb_year should return n number of entire years needed to get a population greater or equal to p.
 aug is an integer, percent a positive or null number, p0 and p are positive integers (> 0)
+
+# SplitStrings
+Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
+
