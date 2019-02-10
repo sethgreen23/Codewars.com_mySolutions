@@ -22,12 +22,10 @@ For example,
 The correct answer would be 17.
 
 # GrowthDurationTillTarget
-In a small town the population is p0 = 1000 at the beginning of a year. The population regularly increases by 2 percent per year and moreover 50 new inhabitants per year come to live in the town. How many years does the town need to see its population greater or equal to p = 1200 inhabitants?
-More generally given parameters:
-p0, percent, aug (inhabitants coming or leaving each year), p (population to surpass)
-the function nb_year should return n number of entire years needed to get a population greater or equal to p.
-aug is an integer, percent a positive or null number, p0 and p are positive integers (> 0)
+Calculates the duration till a amount/number of "p0" with a growth of percent "percent" with a additional amount of "aug" reaches value "p".
 
 # SplitStrings
 Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
 
+# RomanNumeralToInteger
+Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.
