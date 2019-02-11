@@ -29,3 +29,9 @@ In honor of my grandfather's memory we will write a function using his formula!
 - Add them all together.
 - Take the square root of the result.
 - Divide by two.
+
+# Accumulation_Mumbling
+This time no story, no theory. The examples below show you how to write function accum:
+- accum("abcd") -> "A-Bb-Ccc-Dddd"
+- accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+- accum("cwAt") -> "C-Ww-Aaa-Tttt"
