@@ -17,3 +17,6 @@ NOTE: All numbers will be whole numbers greater than 0.
 # TrippleDouble
 - Return 1, if first long containts a digit 3 times in a row and the second long contains that digit 2 times
 - Return 0, if not
+
+# IntToRomanNumeral
+Write a method which takes a int as parameter and returns a String which represents the result as roman numeral.
