@@ -13,3 +13,7 @@ You will be given a number and you will need to return it as a string in Expande
 - Kata.expandedForm(70304); # Should return "70000 + 300 + 4"
 
 NOTE: All numbers will be whole numbers greater than 0.
+
+# TrippleDouble
+- Return 1, if first long containts a digit 3 times in a row and the second long contains that digit 2 times
+- Return 0, if not
