@@ -30,5 +30,9 @@ Complete the solution so that it splits the string into pairs of two characters.
 # RomanNumeralToInteger
 Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. You don't need to validate the form of the Roman numeral.
 
+# CountCharsInString
+The main idea is to count all the occuring characters(UTF-8) in string. If you have string like this aba then the result should be { 'a': 2, 'b': 1 }
+What if the string is empty ? Then the result should be empty object literal { }
+
 # Delete occurrences of an element if it occurs more than n times
 Given a list lst and a number N, create a new list that contains each number of lst at most N times without reordering. For example if N = 2, and the input is [1,2,3,1,2,1,2,3], you take [1,2,3,1,2], drop the next [1,2] since this would lead to 1 and 2 being in the result 3 times, and then take 3, which leads to [1,2,3,1,2,3].
