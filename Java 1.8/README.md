@@ -45,5 +45,4 @@ For the purposes of this kata, some tests may have multiple answers; any valid s
 Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
 
 # Stocklist
-Description:
 A bookseller has lots of books classified in 26 categories labeled A, B, ... Z. Each book has a code c of 3, 4, 5 or more capitals letters. The 1st letter of a code is the capital letter of the book category. In the bookseller's stocklist each code c is followed by a space and by a positive integer n (int n >= 0) which indicates the quantity of books of this code in stock.
