@@ -46,3 +46,11 @@ Move the first letter of each word to the end of it, then add "ay" to the end of
 
 # Stocklist
 A bookseller has lots of books classified in 26 categories labeled A, B, ... Z. Each book has a code c of 3, 4, 5 or more capitals letters. The 1st letter of a code is the capital letter of the book category. In the bookseller's stocklist each code c is followed by a space and by a positive integer n (int n >= 0) which indicates the quantity of books of this code in stock.
+
+# HumanReadableTime
+Write a function, which takes a non-negative integer (seconds) as input and returns the time in a human-readable format (HH:MM:SS)
+- HH = hours, padded to 2 digits, range: 00 - 99
+- MM = minutes, padded to 2 digits, range: 00 - 59
+- SS = seconds, padded to 2 digits, range: 00 - 59
+
+The maximum time never exceeds 359999 (99:59:59)
