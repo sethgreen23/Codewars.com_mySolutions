@@ -76,3 +76,6 @@ We want our function to return:
 - 0 if it's a cat's game (i.e. a draw).
 
 You may assume that the board passed in is valid in the context of a game of Tic-Tac-Toe.
+
+# GreedIsGood
+https://www.codewars.com/kata/greed-is-good/python
