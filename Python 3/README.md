@@ -41,3 +41,7 @@ Given a list lst and a number N, create a new list that contains each number of 
 Write a function partlist that gives all the ways to divide a list (an array) of at least two elements into two non-empty parts.
 a = ["az", "toto", "picaro", "zone", "kiwi"] -->
 [["az", "toto picaro zone kiwi"], ["az toto", "picaro zone kiwi"], ["az toto picaro", "zone kiwi"], ["az toto picaro zone", "kiwi"]]
+
+# Valid_IPv4_Address
+Write an algorithm that will identify valid IPv4 addresses in dot-decimal format. IPs should be considered valid if they consist of four octets, with values between 0 and 255, inclusive.
+Input to the function is guaranteed to be a single string.
