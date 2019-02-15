@@ -54,3 +54,7 @@ Write a function, which takes a non-negative integer (seconds) as input and retu
 - SS = seconds, padded to 2 digits, range: 00 - 59
 
 The maximum time never exceeds 359999 (99:59:59)
+
+# SortTheOdd
+You have an array of numbers. Your task is to sort ascending odd numbers but even numbers must be on their places.
+Zero isn't an odd number and you don't need to move it. If you have an empty array, you need to return it.
