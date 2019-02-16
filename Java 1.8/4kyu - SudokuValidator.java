@@ -4,12 +4,6 @@ public class SudokuValidator {
 		int[] sumColumns = new int[] {0,0,0,0,0,0,0,0,0};
 		int[] sumLines = new int[] {0,0,0,0,0,0,0,0,0};
 		int[][] sumBoard = new int[3][3];
-		//Fill sumBoard with Zeros
-		for(int p = 0; p < sumBoard.length; p++) {
-			for(int q = 0; q < sumBoard[0].length; q++) {
-				sumBoard[p][q] = 0;
-			}
-		}
 		
 		//Checking Vertical and Horizonal Lines
 		for (int i = 0; i < 9; i++) {
