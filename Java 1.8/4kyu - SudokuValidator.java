@@ -3,13 +3,15 @@ public class SudokuValidator {
 	public static boolean check(int[][] sudoku) {
 		int[] sumColumns = new int[] {0,0,0,0,0,0,0,0,0};
 		int[] sumLines = new int[] {0,0,0,0,0,0,0,0,0};
-		int[][] sumBoard = new int[9][9];
+		int[][] sumBoard = new int[3][3];
+		//Fill sumBoard with Zeros
 		for(int p = 0; p < sumBoard.length; p++) {
 			for(int q = 0; q < sumBoard[0].length; q++) {
 				sumBoard[p][q] = 0;
 			}
 		}
-			
+		
+		//Solving
 		for (int i = 0; i < 9; i++) {
 			for (int j = 0; j < 9; j++)  {
 				int n = (sudoku[i][j] * sudoku[i][j]);		
