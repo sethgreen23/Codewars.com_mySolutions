@@ -11,7 +11,7 @@ public class SudokuValidator {
 			}
 		}
 		
-		//Solving
+		//Checking Vertical and Horizonal Lines
 		for (int i = 0; i < 9; i++) {
 			for (int j = 0; j < 9; j++)  {
 				int n = (sudoku[i][j] * sudoku[i][j]);		
@@ -26,6 +26,7 @@ public class SudokuValidator {
 			if (sumLines[i] != 285) break;
 		}
 	  
+		//Checking Blocks
 		for (int k = 0; k < 3; k++)  {
 			for (int l = 0; l < 3; l++) {
 				if (sumBoard[k][l] != 285) return false;
