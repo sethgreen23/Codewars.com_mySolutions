@@ -58,3 +58,6 @@ The maximum time never exceeds 359999 (99:59:59)
 # SortTheOdd
 You have an array of numbers. Your task is to sort ascending odd numbers but even numbers must be on their places.
 Zero isn't an odd number and you don't need to move it. If you have an empty array, you need to return it.
+
+# SudokuValidator
+Write a function validSolution/ValidateSolution/valid_solution() that accepts a 2D array representing a Sudoku board, and returns true if it is a valid solution, or false otherwise. The cells of the sudoku board may also contain 0's, which will represent empty cells. Boards containing one or more zeroes are considered to be invalid solutions.
