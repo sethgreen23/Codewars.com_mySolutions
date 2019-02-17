@@ -89,3 +89,6 @@ It is much easier to understand with an example:
 
 # JosephusPermutation
 https://www.codewars.com/kata/josephus-permutation/python
+
+# MoveZerosToEnd
+Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
