@@ -87,3 +87,5 @@ It is much easier to understand with an example:
 - format_duration(62)    # returns "1 minute and 2 seconds"
 - format_duration(3662)  # returns "1 hour, 1 minute and 2 seconds"
 
+# JosephusPermutation
+https://www.codewars.com/kata/josephus-permutation/python
