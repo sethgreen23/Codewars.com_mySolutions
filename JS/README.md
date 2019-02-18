@@ -7,3 +7,6 @@ Nathan loves cycling. Because Nathan knows it is important to stay hydrated, he 
 
 # SmallestInteger
 Return smallest integer in array.
+
+# ReversedString
+Takes a String as parameter and returns it reversed.
