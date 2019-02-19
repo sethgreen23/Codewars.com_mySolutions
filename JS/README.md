@@ -29,3 +29,6 @@ You are going to be given an array of integers. Your job is to take that array a
 
 # MiddleCharacter
 Write a function which returns the middle character of a string if the string has a odd length - and the middle two chars if it has even length.
+
+# FindOddInt
+Given an array, find the int that appears an odd number of times. There will always be only one integer that appears an odd number of times.
