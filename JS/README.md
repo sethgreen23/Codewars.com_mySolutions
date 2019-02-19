@@ -35,3 +35,6 @@ Given an array, find the int that appears an odd number of times. There will alw
 
 # OddOrEven
 Return "Odd" if the given int is odd or "Even" if the given int is even.
+
+# VowelCount
+Count vowel-letter appearance (vowel: a, e, i, o, u) - Capital
