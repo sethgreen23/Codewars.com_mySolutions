@@ -32,3 +32,6 @@ Write a function which returns the middle character of a string if the string ha
 
 # FindOddInt
 Given an array, find the int that appears an odd number of times. There will always be only one integer that appears an odd number of times.
+
+# OddOrEven
+Return "Odd" if the given int is odd or "Even" if the given int is even.
