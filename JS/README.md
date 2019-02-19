@@ -26,3 +26,6 @@ Your task is to convert strings to how they would be written by Jaden Smith. The
 
 # EqualSidesOfArray
 You are going to be given an array of integers. Your job is to take that array and find an index N where the sum of the integers to the left of N is equal to the sum of the integers to the right of N. If there is no index that would make this happen, return -1.
+
+# MiddleCharacter
+Write a function which return the middle character of a string if the string has a odd length - and the middle two chars if it has even length.
