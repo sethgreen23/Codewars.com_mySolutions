@@ -38,3 +38,6 @@ Return "Odd" if the given int is odd or "Even" if the given int is even.
 
 # VowelCount
 Count vowel-letter appearance (vowel: a, e, i, o, u) - Capital
+
+# Highest&Lowest
+In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
