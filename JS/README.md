@@ -41,3 +41,6 @@ Count vowel-letter appearance (vowel: a, e, i, o, u) - Capital
 
 # Highest&Lowest
 In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
+
+# ShortestWord
+Simple, given a string of words, return the length of the shortest word(s). String will never be empty and you do not need to account for different data types.
