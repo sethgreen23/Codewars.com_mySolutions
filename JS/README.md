@@ -44,3 +44,6 @@ In this little assignment you are given a string of space separated numbers, and
 
 # ShortestWord
 Simple, given a string of words, return the length of the shortest word(s). String will never be empty and you do not need to account for different data types.
+
+# ValidParentheses
+Write a function called that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid.
