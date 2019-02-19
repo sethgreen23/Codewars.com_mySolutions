@@ -54,3 +54,6 @@ Write a function that takes an array of strings as an argument and returns a sor
 - Your function would return the following array: ["Eyes", "Glasses", "Monocles", "Telescopes"]
 
 All of the strings in the array passed to your function will be different lengths, so you will not have to decide how to order multiple strings of the same length.
+
+# OddOrEvenArraysum
+Given an array of numbers (a list in groovy), determine whether the sum of all of the numbers is odd or even. Give your answer in string format as 'odd' or 'even'.
