@@ -95,3 +95,6 @@ The parameter of accum is a string which includes only letters from a..z and A..
 
 # StopSpinningMyWords
 Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
+
+# SumOfDigits / DigitalRoot
+A digital root is the recursive sum of all the digits in a number. Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. This is only applicable to the natural numbers.
